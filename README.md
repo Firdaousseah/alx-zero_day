@@ -1,29 +1,22 @@
-# alx-zero_day
+alx-zero_day
+Este repositorio contiene el proyecto "alx-zero_day", el cual es parte del programa AlX.
 
-This repository contains the "alx-zero_day" project, which is part of the AlX program.
+Descripción
+Este proyecto tiene como objetivo proporcionar una introducción práctica a las herramientas y conceptos básicos de Git.
 
-## Description
+Instrucciones
+Para comenzar con el proyecto, sigue los pasos a continuación:
 
-This project aims to provide a practical introduction to Git tools and basic concepts.
+Clona este repositorio en tu máquina local.
+Navega al directorio 0x03-git.
+Sigue las instrucciones en el archivo README.md dentro de ese directorio para aprender sobre Git.
+Contribuciones
+¡Se aceptan contribuciones! Si deseas contribuir a este proyecto, sigue estos pasos:
 
-## Instructions
-
-To get started with the project, follow the steps below:
-
-1. Clone this repository to your local machine.
-2. Navigate to the 0x03-git directory.
-3. Follow the instructions in the README.md file within that directory to learn about Git.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, follow these steps:
-
-1. Fork this repository.
-2. Create a branch for your new feature: `git checkout -b new-feature`.
-3. Make the necessary changes and commit them: `git commit -m "Add new feature"`.
-4. Push the branch: `git push origin new-feature`.
-5. Open a pull request in this repository.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us.
+Haz un fork de este repositorio.
+Crea una rama para tu nueva función: git checkout -b nueva-funcionalidad.
+Realiza los cambios necesarios y realiza un commit de ellos: git commit -m "Agregar nueva funcionalidad".
+Sube la rama: git push origin nueva-funcionalidad.
+Abre una solicitud de extracción en este repositorio.
+Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
